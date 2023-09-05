@@ -1,5 +1,3 @@
-Here is a README.md for the movie recommender system project:
-
 # Movie Recommender System
 
 This is a content based movie recommender system that makes suggestions based on the similarity between movie plots, genres, cast etc.
